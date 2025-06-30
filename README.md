@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Aman verma</h1>
+  <h1 align="center">Hi 👋, I'm Aman verma</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-- 🔭 I’m currently working on an Online food Delivering Application **food-panda**
+- 🔭 I’m currently working on an Dine-in booking Application **Dfoodo**
 
-- 🌱 I’m currently learning Frameworks for web apps development **React, Spring Boot**
+- 🌱 I’m working with **ReactJs ** for building web apps 
 
 - 👨‍💻 All of my projects are available at [my Github profile](my Github profile)
 
-- 💬 Ask me about **SQL, JAVA, DATA STRUCTURES ANS ALGORITHM, SALESFORCE, SERVLETS, JSTL, JSP, REACT, SPRING BOOT**
+- 💬 Ask me about **SQL, JAVA, DATA STRUCTURES ANS ALGORITHM, Javascript, SERVLETS, JSTL, JSP, REACTJs**
 
 - 📫 How to reach me **aman99.1326@gmail.com**
 
